@@ -1,4 +1,4 @@
-## Apna Platform
+# Apna Platform
 Welcome to Apna Platform, a community-driven interview preparation platform. Connect with peers in your domain, share ideas, and conquer your fear of public speaking!
 
 # Table of Contents
